@@ -1,6 +1,5 @@
-# Ignite CTF
 
-Simple CTF for brgginers
+<h1 align="center"><a href="https://tryhackme.com/room/ignite" download>Ignite CTF</a></h1> 
 
 ## User.txt
 
