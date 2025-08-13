@@ -29,6 +29,9 @@ Fine, i think first version is suitable
 
 ![searchsploit.png](./images/searchsploit.png)
 
+On exploitDB
+![exploitdb.png](./images/exploitdb.png)
+
 Ok, let's visit https://www.revshells.com/ and Put IP and PORT For reverse shell and select "nc mkfifo" and copy code to https://gchq.github.io/CyberChef/ and select encode all special characters.
 
 ![encodeshell.png](./images/encodeshell.png)
